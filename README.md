@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ridwan
+- 👋 Hi, I’m Ridwan
 - 👀 I’m interested in Data analysis and Automation
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on interesting projects
