@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning C/C++ ans Python
+- 🌱 I’m currently learning C/C++ and Python
 - 📫 You can reach me @riddris7 on twitter
 
 <!---
